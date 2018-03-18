@@ -1,0 +1,1 @@
+Specific shell hooks for yesman
